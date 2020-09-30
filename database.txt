@@ -1,0 +1,9 @@
+email, subject, message
+mycodetest2020@gmail.com,Greeting,Hello my friend!
+mycodetest2020@gmail.com,Greetings,Hello my dear friend!
+mycodetest2020@gmail.com,Greetings from friend,Hello my old friend!
+mycodetest2020@gmail.com,Greetings from an old friend,Hello my old friend John!
+mycodetest2020@gmail.com,Just hello,Hello my old friend!
+mycodetest2020@gmail.com,Just hello,Hello!
+mycodetest2020@gmail.com,Hello,Hello
+mycodetest2020@gmail.com,message,Hello!
